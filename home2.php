@@ -142,7 +142,7 @@
   <a href="viewprintingrecords.php">View Printing Records</a>
   <a href="updatestaffinfo.php">Update Info</a>
   <a href="about2.php">About Us</a>
-  <a href="login.php">Log Out</a>
+  <a href="index.php">Log Out</a>
 </div>
 
 <div class="content">
@@ -309,7 +309,7 @@
   }
 
   function logOut() {
-    location.replace('login.php');
+    location.replace('index.php');
   }
 
 </script>

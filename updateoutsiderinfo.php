@@ -233,7 +233,7 @@
   <a class="active" href="updateoutsiderinfo.php">Update Info</a>
   <a href="librarychat.php"> Online Chat</a>
   <a href="about5.php">About Us</a>
-  <a href="login.php">Log Out</a>
+  <a href="index.php">Log Out</a>
 </div>
 
 <div class="content">

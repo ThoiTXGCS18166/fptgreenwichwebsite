@@ -89,7 +89,7 @@
   <a href="viewlaptops.php">View Laptops</a>
   <a href="updateadmininfo.php">Update Info</a>
   <a class="active" href="about1.php">About Us</a>
-  <a href="login.php">Log Out</a>
+  <a href="index.php">Log Out</a>
 </div>
 
 <div class="content">

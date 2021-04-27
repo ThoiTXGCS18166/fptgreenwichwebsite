@@ -123,7 +123,7 @@
     <button type="submit" class="btn" name="btn-signup">Sign Up For Outsider</button>
 
     <h2>Already have an account ?</h2>
-    <a href="login.php">Login For User</a>
+    <a href="index.php">Login For User</a>
 
   </form>
 
