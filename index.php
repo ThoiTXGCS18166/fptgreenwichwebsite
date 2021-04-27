@@ -195,7 +195,7 @@
 <body>
     
 <div class="">
-  <form action="login.php" method="POST" class="container">
+  <form action="index.php" method="POST" class="container">
     
     <h1>The Login Form For User</h1>
 
