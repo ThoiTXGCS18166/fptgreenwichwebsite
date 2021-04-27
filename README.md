@@ -1,1 +1,1 @@
-Hello, my name is Tran Xuan Thoi. This is my FPT Greenwich Online Library Management Website
+Hello, my name is Tran Xuan Thoi. My ID is 001137640. This is my project website link: https://fptgreenwich-website.herokuapp.com/
