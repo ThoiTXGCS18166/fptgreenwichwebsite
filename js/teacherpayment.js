@@ -15,10 +15,10 @@ paypal.Buttons({
     onApprove: function (data, actions) {
         return actions.order.capture().then(function (details) {
             console.log(details)
-            window.location.replace("https://fptgreenwich-website.herokuapp.com/TheOnlineLibraryManagementSystem/success2.php")
+            window.location.replace("https://fptgreenwich-website.herokuapp.com/success2.php")
         })
     },
     onCancel: function (data) {
-        window.location.replace("https://fptgreenwich-website.herokuapp.com/TheOnlineLibraryManagementSystem/Oncancel2.php")
+        window.location.replace("https://fptgreenwich-website.herokuapp.com/Oncancel2.php")
     }
 }).render('#paypal-payment-button');
