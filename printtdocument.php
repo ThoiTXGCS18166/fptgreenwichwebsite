@@ -23,7 +23,7 @@
     $printingdate=$_POST['txt-printingdate'];
     $printingfee="20 USD";
     $printingstatus=0;
-    $qrcode="tprintqrcode3.png";
+    $qrcode="tprintqrcode3.jpg";
     date_default_timezone_set("Asia/Ho_Chi_Minh");
     $submitdate=date('Y-m-d H:i:s');
     $printpriority="1";
